@@ -21,5 +21,6 @@ namespace Casdoor.AspNetCore.Authentication
         public const string WebAppApplicationType = "webapp";
 
         public const string WebApiApplicationType = "webapi";
+
     }
 }
